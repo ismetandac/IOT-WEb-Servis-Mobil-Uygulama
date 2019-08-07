@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Giriş</title>
+</head>
+<body>
+    <form method="post" action="/Giris">
+        <h2>Lütfen Giriş Yapınız</h2>
+        <label>Email</label>
+        @Html.TextBox("Email")
+        <br />
+        <label>Şifre</label>
+        @Html.Password("Password")
+        <br />
+        <button type="submit">Giriş</button>
+    </form>
+</body>
+</html>

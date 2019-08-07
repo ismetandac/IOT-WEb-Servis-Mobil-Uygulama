@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Cihazlarım";
+}
+
+<h2>Cihazlarım</h2>
+
+<div id="devices">
+
+</div>
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script type="text/javascript">
+    function GetData() {
+        var url = "http://api.iotcihazim.site/api/userdata/" +@ViewBag.usrID;
+        $.getJSON(url, function (data) {
+        console.log(data);
+        $.each(data, function (i,d) {
+            console.log(d);
+            var sensors = "";
+            $.each(d.MySensor, function (j, s) {
+                sensors += s.Name + " " + s.Value + "<br/>";
+            });
+            var html = "<div class='item'><h2>" + d.Name + "</h2>" + sensors + "</div>";
+            $("#devices").html(html);
+        });
+    });
+    }
+
+    setInterval(GetData, 3000);
+</script>

@@ -1,0 +1,12 @@
+C:\Users\Mert2\source\repos\Ders.Proje\Ders.Proje.Core.Model\bin\Debug\Ders.Proje.Core.Model.dll.config
+C:\Users\Mert2\source\repos\Ders.Proje\Ders.Proje.Core.Model\bin\Debug\Ders.Proje.Core.Model.dll
+C:\Users\Mert2\source\repos\Ders.Proje\Ders.Proje.Core.Model\bin\Debug\Ders.Proje.Core.Model.pdb
+C:\Users\Mert2\source\repos\Ders.Proje\Ders.Proje.Core.Model\bin\Debug\EntityFramework.dll
+C:\Users\Mert2\source\repos\Ders.Proje\Ders.Proje.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mert2\source\repos\Ders.Proje\Ders.Proje.Core.Model\bin\Debug\EntityFramework.xml
+C:\Users\Mert2\source\repos\Ders.Proje\Ders.Proje.Core.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mert2\source\repos\Ders.Proje\Ders.Proje.Core.Model\obj\Debug\Ders.Proje.Core.Model.csprojAssemblyReference.cache
+C:\Users\Mert2\source\repos\Ders.Proje\Ders.Proje.Core.Model\obj\Debug\Ders.Proje.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mert2\source\repos\Ders.Proje\Ders.Proje.Core.Model\obj\Debug\Ders.Proje.Core.Model.csproj.CopyComplete
+C:\Users\Mert2\source\repos\Ders.Proje\Ders.Proje.Core.Model\obj\Debug\Ders.Proje.Core.Model.dll
+C:\Users\Mert2\source\repos\Ders.Proje\Ders.Proje.Core.Model\obj\Debug\Ders.Proje.Core.Model.pdb
